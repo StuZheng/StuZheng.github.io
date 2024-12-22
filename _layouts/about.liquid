@@ -13,6 +13,8 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
+  
+  <hr>
 
   <article>
     {% if page.profile %}
@@ -39,6 +41,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+    <hr>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -55,6 +58,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+   <hr>
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -63,6 +67,7 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+    <hr>
 
     <!-- Social -->
     {% if page.social %}
