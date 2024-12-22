@@ -2,9 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <p>Ph.D. Candidate in Computer Science and Engineering</p><p><a href='https://www.csd.uwo.ca/'>University of Western Ontario</a> 📍London, Ontario, Canada</p>  
-<p><a href='https://www.csu.edu.cn/'>Central South University</a> 📍Changsha, Hunan, China</p>  
-<p><strong>E-mail</strong>: zhenghao@csu.edu.cn / zhenghaocsu@gmail.com</p> <p><a href='https://scholar.google.com/citations?user=NBIwpN8AAAAJ'>Google Scholar</a> | <a href='https://github.com/StuZheng'>Github</a>
+subtitle: <p>Ph.D. Candidate in Computer Science and Engineering</p><p><a href='https://www.csd.uwo.ca/'>University of Western Ontario</a> 📍London, Ontario, Canada</p> <p><a href='https://www.csu.edu.cn/'>Central South University</a> 📍Changsha, Hunan, China</p><p><strong>E-mail</strong>: zhenghao@csu.edu.cn / zhenghaocsu@gmail.com</p> <p><a href='https://scholar.google.com/citations?user=NBIwpN8AAAAJ'>Google Scholar</a> | <a href='https://github.com/StuZheng'>Github</a>
 
 profile:
   align: right
