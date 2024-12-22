@@ -16,6 +16,9 @@
             {% if site.last_name %}
               {{- site.last_name -}}
             {% endif %}
+            {% if site.zh_name %}
+              {{- "| " |  append: site.zh_name -}}
+            {% endif %}
           {% else %}
             {{- site.title -}}
           {% endif %}
