@@ -24,4 +24,4 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello! I’m Hao Zheng, a fourth-year Ph.D. student in the School of Computer Science and Engineering at Central South University, supervised by Prof. Zhigang Hu. Currently, I’m also a visiting researcher at Western University, where I work under the guidance of Prof. Boyu Wang. My research interests lie in Personalized Federated Learning and Multi-feature Fusion.
 
-Before starting my Ph.D., I completed my Master’s degree at Central South University and earned my Bachelor’s degree at Taiyuan University of Technology.
+Previously, I have completed my Master’s degree at Central South University and earned my Bachelor’s degree at Taiyuan University of Technology.
