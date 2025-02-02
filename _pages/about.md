@@ -8,7 +8,7 @@ subtitle: |
   <p><a href='https://www.csu.edu.cn/'>Central South University</a> 📍Changsha, Hunan, China</p>
   <p><strong>E-mail</strong>: zhenghao@csu.edu.cn / zhenghaocsu@gmail.com</p>
   <p><a href='https://scholar.google.com/citations?user=NBIwpN8AAAAJ'>Google Scholar</a> | <a href='https://github.com/StuZheng'>Github</a></p>
-  <p><strong>Reviewer</strong>for: ICLR 2024, NeurIPS 2024, IJCAI 2025</p>
+  <p><strong>Reviewer</strong>for: ICLR 2024, NeurIPS 2024, AISTATS 2025, IJCAI 2025</p>
 
 profile:
   align: right
