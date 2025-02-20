@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, “ConFREE: Conflict-free Client Update Aggregation for Personalized Federated Learning”, was accepted at AAAI 2025. :sparkles: :smile:
+Our paper, “ConFREE: Conflict-free Client Update Aggregation for Personalized Federated Learning”, was accepted at AAAI 2025 (oral, acceptance rate ≈ 4.6%). :sparkles: :smile:
