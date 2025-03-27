@@ -1,4 +1,4 @@
-Z.H's personal homepage: https://stuzheng.github.io, built using the [al-folio GitHub repository](https://github.com/alshedivat/al-folio). Many thanks to all the contributors!
+Z.H's personal homepage: https://zhenghao0.github.io, built using the [al-folio GitHub repository](https://github.com/alshedivat/al-folio). Many thanks to all the contributors!
 
 
 
